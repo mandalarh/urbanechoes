@@ -11,6 +11,12 @@
     overflow: hidden;
 }
 
+#logo {
+    width: 30px; 
+    height: 30px;
+    margin-right: 10px;
+}
+
 #audioContainer {
     margin-top: 20px;
     display: flex;
